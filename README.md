@@ -27,3 +27,6 @@ Momentary.fromNow(datestring, locale, options);
 
 Add date formatting options, default is {year: 'numeric', month: 'numeric', day: 'numeric'}
 
+## CDN
+
+https://cdn.jsdelivr.net/gh/wolfha/momentary/dist/momentary.min.js
